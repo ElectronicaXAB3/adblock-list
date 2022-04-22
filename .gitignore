@@ -1,4 +1,2 @@
-/key*
-*.pub
-*.key
-*.ppk
+key
+key.pub

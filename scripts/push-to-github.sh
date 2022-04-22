@@ -24,6 +24,6 @@ git add .
 git commit -m "wip"
 
 # Push the file
-bash -c "GIT_SSH_COMMAND='ssh -i ./key.ppk' git push -u origin main"
+bash -c "GIT_SSH_COMMAND='ssh -i ./key' git push -u origin main"
 
 echo "Done!"
