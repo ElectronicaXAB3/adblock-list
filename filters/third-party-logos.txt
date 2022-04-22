@@ -4,3 +4,4 @@
 ||trusted.ro^$third-party
 ||glami.ro^$third-party
 ||okazii.ro^$third-party
+||cel.ro^$third-party
