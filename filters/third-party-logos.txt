@@ -2,3 +2,5 @@
 ||price.ro^$third-party
 ||compari.ro^$third-party
 ||trusted.ro^$third-party
+||glami.ro^$third-party
+||okazii.ro^$third-party
