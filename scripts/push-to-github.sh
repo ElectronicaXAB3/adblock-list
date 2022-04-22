@@ -21,9 +21,9 @@ fi
 git add .
 
 # Commit the files
-git commit -m "..."
+git commit -m "wip"
 
 # Push the file
-# bash -c "GIT_SSH_COMMAND='ssh -i ./key.ppk' git push -u origin master"
+bash -c "GIT_SSH_COMMAND='ssh -i ./key.ppk' git push -u origin main"
 
 echo "Done!"
