@@ -29,9 +29,6 @@ paypal.com###gdprCookieBanner
 ! emag.ro
 www.emag.ro##.gdpr-cookie-banner
 
-! mediagalaxy.ro
-mediagalaxy.ro###notice-cookie-block
-
 ! Wordpress Cookie Consent plugin
 ! https://wordpress.org/plugins/cookie-law-info/
 */wp-content/plugins/cookie-law-info/*
