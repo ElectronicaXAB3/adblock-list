@@ -27,3 +27,9 @@ www.emag.ro##.gdpr-cookie-banner
 ! Wordpress Cookie Consent plugin
 ! https://wordpress.org/plugins/cookie-law-info/
 */wp-content/plugins/cookie-law-info/*
+
+! cleste.ro
+cleste.ro##.gdprModal
+
+! sigmanortec.ro
+www.sigmanortec.ro###cookieMessage
