@@ -37,3 +37,5 @@ www.sigmanortec.ro###cookieMessage
 ! robofun.ro
 robofun.ro##.cookiePolicyGomag
 
+! optimusdigital.ro
+optimusdigital.ro###lgcookieslaw_banner
