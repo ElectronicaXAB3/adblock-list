@@ -39,3 +39,6 @@ robofun.ro##.cookiePolicyGomag
 
 ! optimusdigital.ro
 optimusdigital.ro###lgcookieslaw_banner
+
+! componente.eu
+componente.eu##.cc-window
