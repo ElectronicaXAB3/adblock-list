@@ -33,3 +33,7 @@ cleste.ro##.gdprModal
 
 ! sigmanortec.ro
 www.sigmanortec.ro###cookieMessage
+
+! robofun.ro
+robofun.ro##.cookiePolicyGomag
+
