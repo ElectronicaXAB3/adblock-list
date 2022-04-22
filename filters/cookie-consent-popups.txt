@@ -7,12 +7,23 @@
 ||cookiepro.blob.core.windows.net^$third-party
 ||cookiepro.com^$third-party
 ||iubenda.com^$third-party
+||onetrust.com^$third-party
 
 ! arduino.cc
 cdn.arduino.cc/header-footer/iubenda-*.js
+
+! tme.eu
+www.tme.eu##.c-cookies-content
+
+! lcsc.com
+lcsc.com##.privacy.v-footer
 
 ! paypal.com
 www.paypal.com##.gdprCookieBanner_container
 
 ! emag.ro
 www.emag.ro##.gdpr-cookie-banner
+
+! Wordpress Cookie Consent plugin
+! https://wordpress.org/plugins/cookie-law-info/
+*/wp-content/plugins/cookie-law-info/*
