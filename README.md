@@ -8,7 +8,11 @@ Filtre au fost testate doar cu [uBlock Origin](https://ublockorigin.com/).
 
 # Adaugarea filtrelor
 
-Adauga manual adresa `https://raw.githubusercontent.com/ElectronicaXAB3/adblock-list/main/merged-filters.txt` in lista de filtre a ad blocker-ului tau.
+Adauga manual urmatoarea adresa in lista de filtre a ad blocker-ului tau.
+
+```text
+https://raw.githubusercontent.com/ElectronicaXAB3/adblock-list/main/merged-filters.txt
+```
 
 # Concatenarea filtrelor
 
