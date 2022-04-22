@@ -24,7 +24,7 @@ www.tme.eu##.c-cookies-content
 lcsc.com##.privacy.v-footer
 
 ! paypal.com
-www.paypal.com##.gdprCookieBanner_container
+paypal.com###gdprCookieBanner
 
 ! emag.ro
 www.emag.ro##.gdpr-cookie-banner
