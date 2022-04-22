@@ -48,3 +48,10 @@ componente.eu##.cc-window
 
 ! gomag stores cookie policy
 ##.cookiePolicyGomag
+
+! elforum.info
+elforum.info###elGuestTerms
+
+! okazii.ro
+okazii.ro###onetrust-consent-sdk
+okazii.ro##html, body:style(overflow: scroll !important;)
