@@ -42,3 +42,6 @@ optimusdigital.ro###lgcookieslaw_banner
 
 ! componente.eu
 componente.eu##.cc-window
+
+! gomag stores cookie policy
+##.cookiePolicyGomag
