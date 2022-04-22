@@ -18,7 +18,7 @@ https://raw.githubusercontent.com/ElectronicaXAB3/adblock-list/main/merged-filte
 
 Filtrele individuale se afla in folderul `filters` al acestui repository.
 
-Cine nu doreste sa utilizeze toate filtrele, poate sa adauge individual fiecare filtru in parte in ad blocker.
+Cine nu doreste sa utilizeze toate filtrele, poate sa adauge individual fiecare filtru in parte in ad blocker-ul sau.
 
 Pentru concatenarea filtrelor, foloseste scriptul bash `scripts/merge-filters.sh` sub forma
 
