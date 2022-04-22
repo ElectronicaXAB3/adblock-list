@@ -5,3 +5,4 @@
 ||glami.ro^$third-party
 ||okazii.ro^$third-party
 ||cel.ro^$third-party
+||plationline.ro^$third-party
