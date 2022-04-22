@@ -1,1 +1,3 @@
 ||shopmania.ro/img^$third-party
+||price.ro/logo^$third-party
+||compari.ro/ro/logo^$third-party
