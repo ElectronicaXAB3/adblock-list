@@ -6,3 +6,4 @@
 ||okazii.ro^$third-party
 ||cel.ro^$third-party
 ||plationline.ro^$third-party
+||toateblogurile.ro^$third-party
