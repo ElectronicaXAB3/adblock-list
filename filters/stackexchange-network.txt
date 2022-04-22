@@ -1,0 +1,46 @@
+! askubuntu.com
+askubuntu.com##.js-dismissable-hero
+askubuntu.com##.js-consent-banner
+
+! stackoverflow.com
+stackoverflow.com##.js-consent-banner
+
+! serverfault.com
+serverfault.com##.js-dismissable-hero
+serverfault.com##.js-consent-banner
+
+! superuser.com
+superuser.com##.js-dismissable-hero
+superuser.com##.js-consent-banner
+
+! unix.stackexchange.com
+unix.stackexchange.com##.js-dismissable-hero
+unix.stackexchange.com##.js-consent-banner
+
+! electronics.stackexchange.com
+electronics.stackexchange.com##.js-dismissable-hero
+electronics.stackexchange.com##.js-consent-banner
+
+! softwareengineering.stackexchange.com
+softwareengineering.stackexchange.com##.js-dismissable-hero
+softwareengineering.stackexchange.com##.js-consent-banner
+
+! raspberrypi.stackexchange.com
+raspberrypi.stackexchange.com##.js-dismissable-hero
+raspberrypi.stackexchange.com##.js-consent-banner
+
+! robotics.stackexchange.com
+robotics.stackexchange.com##.js-dismissable-hero
+robotics.stackexchange.com##.js-consent-banner
+
+! networkengineering.stackexchange.com
+networkengineering.stackexchange.com##.js-dismissable-hero
+networkengineering.stackexchange.com##.js-consent-banner
+
+! arduino.stackexchange.com
+arduino.stackexchange.com##.js-dismissable-hero
+arduino.stackexchange.com##.js-consent-banner
+
+! iot.stackexchange.com
+iot.stackexchange.com##.js-dismissable-hero
+iot.stackexchange.com##.js-consent-banner
