@@ -28,6 +28,9 @@ www.emag.ro##.gdpr-cookie-banner
 ! https://wordpress.org/plugins/cookie-law-info/
 */wp-content/plugins/cookie-law-info/*
 
+! Shopify stores
+cdn.shopify.com/*/cookieconsent*
+
 ! cleste.ro
 cleste.ro##.gdprModal
 
