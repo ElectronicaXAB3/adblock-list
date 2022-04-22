@@ -55,3 +55,9 @@ elforum.info###elGuestTerms
 ! okazii.ro
 okazii.ro###onetrust-consent-sdk
 okazii.ro##html, body:style(overflow: scroll !important;)
+
+! aliexpress.com
+aliexpress.com##.global-gdpr-container
+
+! ebay.com
+ebay.com###gdpr-banner
