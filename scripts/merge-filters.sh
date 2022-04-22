@@ -12,6 +12,12 @@ command -v "git" &> /dev/null ] || {
     exit 1
 }
 
+# Check if paste is installed
+command -v "paste" &> /dev/null ] || {
+    echo "paste is not installed!" >&2
+    exit 1
+}
+
 if [ ! -f $DESTINATION_FILE ]; then
     echo "Destination file does not exist!" >&2
     echo "Make sure your are in the root directory before calling this script." >&2
