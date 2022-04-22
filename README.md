@@ -28,3 +28,7 @@ bash merge-filters.sh
 ```
 
 Ca rezultat, fisierul `merged-filters.txt` va contine suma tuturor filtrelor.
+
+## Resurse
+
+- [wiki uBlock Origin](https://github.com/gorhill/uBlock/wiki)

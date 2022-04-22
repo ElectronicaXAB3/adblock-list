@@ -1,1 +1,133 @@
 
+! ###########################
+! Filter: cookie-consent-popups.txt
+! ###########################
+
+! Third-party domains
+||cookiebot.com^$third-party
+||consensu.org^$third-party
+||cookielaw.org^$third-party
+||truste.com^$third-party
+||trustarc.com^$third-party
+||cookiepro.blob.core.windows.net^$third-party
+||cookiepro.com^$third-party
+||iubenda.com^$third-party
+||onetrust.com^$third-party
+
+! arduino.cc
+cdn.arduino.cc/header-footer/iubenda-*.js
+
+! tme.eu
+www.tme.eu##.c-cookies-content
+
+! lcsc.com
+lcsc.com##.privacy.v-footer
+
+! paypal.com
+www.paypal.com##.gdprCookieBanner_container
+
+! emag.ro
+www.emag.ro##.gdpr-cookie-banner
+
+! Wordpress Cookie Consent plugin
+! https://wordpress.org/plugins/cookie-law-info/
+*/wp-content/plugins/cookie-law-info/*
+
+! Shopify stores
+cdn.shopify.com/*/cookieconsent*
+
+! cleste.ro
+cleste.ro##.gdprModal
+
+! sigmanortec.ro
+www.sigmanortec.ro###cookieMessage
+
+! robofun.ro
+robofun.ro##.cookiePolicyGomag
+
+! optimusdigital.ro
+optimusdigital.ro###lgcookieslaw_banner
+
+! componente.eu
+componente.eu##.cc-window
+
+! gomag stores cookie policy
+##.cookiePolicyGomag
+
+! elforum.info
+elforum.info###elGuestTerms
+
+! okazii.ro
+okazii.ro###onetrust-consent-sdk
+okazii.ro##html, body:style(overflow: scroll !important;)
+
+! aliexpress.com
+aliexpress.com##.global-gdpr-container
+
+! ebay.com
+ebay.com###gdpr-banner
+
+! ###########################
+! Filter: stackexchange-network.txt
+! ###########################
+
+! askubuntu.com
+askubuntu.com##.js-dismissable-hero
+askubuntu.com##.js-consent-banner
+
+! stackoverflow.com
+stackoverflow.com##.js-consent-banner
+
+! serverfault.com
+serverfault.com##.js-dismissable-hero
+serverfault.com##.js-consent-banner
+
+! superuser.com
+superuser.com##.js-dismissable-hero
+superuser.com##.js-consent-banner
+
+! unix.stackexchange.com
+unix.stackexchange.com##.js-dismissable-hero
+unix.stackexchange.com##.js-consent-banner
+
+! electronics.stackexchange.com
+electronics.stackexchange.com##.js-dismissable-hero
+electronics.stackexchange.com##.js-consent-banner
+
+! softwareengineering.stackexchange.com
+softwareengineering.stackexchange.com##.js-dismissable-hero
+softwareengineering.stackexchange.com##.js-consent-banner
+
+! raspberrypi.stackexchange.com
+raspberrypi.stackexchange.com##.js-dismissable-hero
+raspberrypi.stackexchange.com##.js-consent-banner
+
+! robotics.stackexchange.com
+robotics.stackexchange.com##.js-dismissable-hero
+robotics.stackexchange.com##.js-consent-banner
+
+! networkengineering.stackexchange.com
+networkengineering.stackexchange.com##.js-dismissable-hero
+networkengineering.stackexchange.com##.js-consent-banner
+
+! arduino.stackexchange.com
+arduino.stackexchange.com##.js-dismissable-hero
+arduino.stackexchange.com##.js-consent-banner
+
+! iot.stackexchange.com
+iot.stackexchange.com##.js-dismissable-hero
+iot.stackexchange.com##.js-consent-banner
+
+! ###########################
+! Filter: third-party-logos.txt
+! ###########################
+
+||shopmania.ro^$third-party
+||price.ro^$third-party
+||compari.ro^$third-party
+||trusted.ro^$third-party
+||glami.ro^$third-party
+||okazii.ro^$third-party
+||cel.ro^$third-party
+||plationline.ro^$third-party
+||toateblogurile.ro^$third-party
