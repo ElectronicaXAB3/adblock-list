@@ -24,6 +24,9 @@ onsemi.com###cc-menu
 ! silabs.com
 silabs.com##.cookie-popup
 
+! skyworksinc.com
+skyworksinc.com###precookiefooter
+
 ! st.com
 st.com##.optanon-alert-box-wrapper
 st.com###optanon-popup-bg
