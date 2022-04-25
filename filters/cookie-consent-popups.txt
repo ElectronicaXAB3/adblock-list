@@ -22,6 +22,9 @@ silabs.com##.cookie-popup
 ! vishay.com
 vishay.com###onetrust-consent-sdk
 
+! xilinx.com
+xilinx.com###onetrust-consent-sdk
+
 ! skyworksinc.com
 skyworksinc.com###precookiefooter
 
