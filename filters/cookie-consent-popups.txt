@@ -29,6 +29,9 @@ www.tme.eu##.c-cookies-content
 ! cirrus.com
 cirrus.com##.links-are-reversed
 
+! micron.com
+micron.com##.alert-bar.bottom-bar
+
 ! lcsc.com
 lcsc.com##.privacy.v-footer
 
