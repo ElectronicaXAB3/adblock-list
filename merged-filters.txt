@@ -27,6 +27,9 @@ ti.com###__tealiumGDPRecModal
 ! tme.eu
 www.tme.eu##.c-cookies-content
 
+! cirrus.com
+cirrus.com##.links-are-reversed
+
 ! lcsc.com
 lcsc.com##.privacy.v-footer
 
