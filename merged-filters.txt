@@ -17,6 +17,10 @@
 ! arduino.cc
 cdn.arduino.cc/header-footer/iubenda-*.js
 
+! st.com
+st.com##.optanon-alert-box-wrapper
+st.com###optanon-popup-bg
+
 ! tme.eu
 www.tme.eu##.c-cookies-content
 
