@@ -17,6 +17,9 @@ cdn.arduino.cc/header-footer/iubenda-*.js
 st.com##.optanon-alert-box-wrapper
 st.com###optanon-popup-bg
 
+! nxp.com
+nxp.com##.optanon-alert-box-wrapper
+
 ! ti.com
 ti.com###__tealiumGDPRecModal
 
