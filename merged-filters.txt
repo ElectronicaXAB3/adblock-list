@@ -24,6 +24,9 @@ onsemi.com###cc-menu
 ! silabs.com
 silabs.com##.cookie-popup
 
+! vishay.com
+vishay.com###onetrust-consent-sdk
+
 ! skyworksinc.com
 skyworksinc.com###precookiefooter
 
