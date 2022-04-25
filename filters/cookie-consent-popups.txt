@@ -16,6 +16,9 @@ cdn.arduino.cc/header-footer/iubenda-*.js
 ! onsemi.com
 onsemi.com###cc-menu
 
+! silabs.com
+silabs.com##.cookie-popup
+
 ! st.com
 st.com##.optanon-alert-box-wrapper
 st.com###optanon-popup-bg
