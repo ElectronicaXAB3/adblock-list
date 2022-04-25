@@ -8,6 +8,7 @@
 ||cookiepro.com^$third-party
 ||iubenda.com^$third-party
 ||onetrust.com^$third-party
+||cookieinformation.com^$third-party
 
 ! arduino.cc
 cdn.arduino.cc/header-footer/iubenda-*.js
