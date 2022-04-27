@@ -156,6 +156,10 @@ arduino.stackexchange.com##.js-consent-banner
 iot.stackexchange.com##.js-dismissable-hero
 iot.stackexchange.com##.js-consent-banner
 
+! security.stackexchange.com
+security.stackexchange.com##.js-dismissable-hero
+security.stackexchange.com##.js-consent-banner
+
 ! ###########################
 ! Filter: third-party-logos.txt
 ! ###########################
