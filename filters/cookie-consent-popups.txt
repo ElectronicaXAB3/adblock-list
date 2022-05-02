@@ -9,6 +9,7 @@
 ||iubenda.com^$third-party
 ||onetrust.com^$third-party
 ||cookieinformation.com^$third-party
+||privacymanager.io^$third-party
 
 ! arduino.cc
 cdn.arduino.cc/header-footer/iubenda-*.js
