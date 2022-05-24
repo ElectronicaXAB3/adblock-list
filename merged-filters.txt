@@ -57,6 +57,9 @@ micron.com##.alert-bar.bottom-bar
 ! lcsc.com
 lcsc.com##.privacy.v-footer
 
+! digikey.com
+digikey.com##.cookie-notice
+
 ! paypal.com
 paypal.com###gdprCookieBanner
 
