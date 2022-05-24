@@ -54,6 +54,13 @@ lcsc.com##.privacy.v-footer
 
 ! digikey.com
 digikey.com##.cookie-notice
+digikey.com##.cookie-mask
+digikey.com##html, body:style(margin-top: 0 !important;)
+
+! digikey.ro
+digikey.ro##.cookie-notice
+digikey.ro##.cookie-mask
+digikey.ro##html, body:style(margin-top: 0 !important;)
 
 ! paypal.com
 paypal.com###gdprCookieBanner
