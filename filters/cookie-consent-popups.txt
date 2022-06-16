@@ -113,3 +113,6 @@ aliexpress.com##.global-gdpr-container
 
 ! ebay.com
 ebay.com###gdpr-banner
+
+! batronix.com
+batronix.com##.cookie-notice
